@@ -5,12 +5,12 @@
 U.S. Army veteran transitioning operational leadership, data quality, reporting, and process-improvement experience into technology-focused roles. My portfolio combines hands-on graduate analytics, machine learning, networking, cybersecurity, databases, visualization, and application-security work.
 
 ## Featured projects
-- **Fetal Health Machine Learning** — Python, pandas, scikit-learn, PCA, logistic regression, model evaluation
-- **Credit Risk Decision Tree** — preprocessing, GridSearchCV, explainable classification, cost-sensitive evaluation
-- **Student Evaluation Clustering** — K-means, PCA, cluster validation, anomaly analysis
-- **Cloud Web Application Security Lab** — Ubuntu, Node.js, MySQL, npm vulnerability review, functional testing
-- **Network Security Analysis** — Wireshark, Nmap, HTTPS/TLS, WPA2/EAPOL
-- **Text Analytics & Tableau** — unstructured text, word-frequency analysis, Tableau storytelling
+- [**Fetal Health Machine Learning**](https://github.com/wilsonkingmiles/fetal-health-machine-learning) — Python, pandas, scikit-learn, PCA, logistic regression, model evaluation
+- [**Credit Risk Decision Tree**](https://github.com/wilsonkingmiles/credit-risk-decision-tree) — preprocessing, GridSearchCV, explainable classification, cost-sensitive evaluation
+- [**Student Evaluation Clustering**](https://github.com/wilsonkingmiles/student-evaluation-clustering) — K-means, PCA, cluster validation, anomaly analysis
+- [**Cloud Web Application Security Lab**](https://github.com/wilsonkingmiles/cloud-web-app-security-lab) — Ubuntu, Node.js, MySQL, npm vulnerability review, functional testing
+- [**Network Security Analysis**](https://github.com/wilsonkingmiles/network-security-analysis) — Wireshark, Nmap, HTTPS/TLS, WPA2/EAPOL
+- [**Text Analytics & Tableau**](https://github.com/wilsonkingmiles/text-analytics-tableau) — unstructured text, word-frequency analysis, Tableau storytelling
 
 ## Technical areas
 **Data & Analytics:** Python, SQL, Tableau, IBM Cognos Analytics, Excel, pandas, scikit-learn  
@@ -24,5 +24,5 @@ My professional experience includes six years in U.S. Army human-resources and o
 I hold a B.S. in Software Development & Security and am completing an M.S. in Data Analytics.
 
 ## Connect
-- GitHub: `github.com/wilsonkingmiles`
-- Tableau Public: `public.tableau.com/app/profile/miles.wilson.king`
+- [GitHub](https://github.com/wilsonkingmiles)
+- [Tableau Public](https://public.tableau.com/app/profile/miles.wilson.king)
